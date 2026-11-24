@@ -1,12 +1,16 @@
 {
-  "name": "Examination Tools",
-  "description": "Chat appearance controls, background customization, theme preview, and local settings tools.",
-  "version": "1.0.0",
-  "authors": [
-    {
-      "name": "iloveexamination"
-    }
-  ],
+  "id": "iloveexamination.examination-tools",
+  "version": "1.0.1",
+  "type": "plugin",
+  "spec": 3,
   "main": "index.js",
-  "kettu": true
+  "display": {
+    "name": "Examination Tools",
+    "description": "Chat appearance controls, background customization, theme preview, and local settings tools.",
+    "authors": [
+      {
+        "name": "iloveexamination"
+      }
+    ]
+  }
 }
