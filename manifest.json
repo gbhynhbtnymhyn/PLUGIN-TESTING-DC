@@ -1,0 +1,12 @@
+{
+  "name": "Examination Tools",
+  "description": "Chat appearance controls, background customization, theme preview, and local settings tools.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "iloveexamination"
+    }
+  ],
+  "main": "index.js",
+  "kettu": true
+}
